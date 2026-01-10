@@ -1,0 +1,49 @@
+# Learning Linear Algebra
+
+A collection of Jupyter notebooks and Python scripts dedicated to learning and practicing Linear Algebra. The materials are organized based on different courses and difficulty levels.
+
+## Project Structure
+
+The project is divided into several main directories:
+
+### 1. [Hyperskill](./hyperskill/)
+Contains notebooks following the Hyperskill Linear Algebra track, organized by topics:
+- **01 Vector and Vector Spaces**: Basics of vectors, operations, spaces, and projections.
+- **02 Matrices**: Introduction to matrices, types, operations, determinants, and inverses.
+- **03 Systems of Linear Equations**: Solving systems using Gauss elimination and row transformations.
+- **04 Linear Operators**: Subspaces, null space, range, and eigenvalues/eigenvectors.
+- **05 Matrix Decomposition**: LU decomposition, diagonalization, SVD, and applications.
+
+### 2. [Coursera](./coursera/)
+Materials and assignments from Coursera Linear Algebra courses, including labs on NumPy, linear systems, and eigenvalues.
+
+### 3. [Advanced Concepts](./advanced_concepts/)
+Deep dives into more complex topics such as:
+- Spectral theory
+- Inner product spaces
+- Orthogonal and unitary transformations
+- Least squares optimization
+- Pseudoinverse and rank deficiency
+- Canonical forms
+- Linear algebra in machine learning
+
+### 4. Root Files
+- `basic_notation.ipynb`: Introduction to fundamental notation.
+- `simulate_pca.py` & `simulate_pca_2.py`: Python scripts for simulating Principal Component Analysis.
+
+## Getting Started
+
+To explore these notebooks, you will need a Python environment with Jupyter installed along with common scientific libraries such as `numpy`, `matplotlib`, and `scipy`.
+
+```bash
+pip install jupyter numpy matplotlib scipy
+```
+
+Then, you can start the Jupyter Notebook server:
+
+```bash
+jupyter notebook
+```
+
+## License
+This project is for educational purposes.
