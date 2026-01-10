@@ -33,10 +33,10 @@ Deep dives into more complex topics such as:
 
 ## Getting Started
 
-To explore these notebooks, you will need a Python environment with Jupyter installed along with common scientific libraries such as `numpy`, `matplotlib`, and `scipy`.
+To explore these notebooks, you will need a Python environment with Jupyter installed along with common scientific libraries. You can install all dependencies using the provided `requirements.txt` file:
 
 ```bash
-pip install jupyter numpy matplotlib scipy
+pip install -r requirements.txt
 ```
 
 Then, you can start the Jupyter Notebook server:

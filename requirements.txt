@@ -1,0 +1,10 @@
+jupyter
+numpy
+matplotlib
+scipy
+pandas
+sympy
+scikit-learn
+opencv-python
+ipywidgets
+ipython
