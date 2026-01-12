@@ -4,11 +4,16 @@ To maintain a clean and efficient repository, please follow these steps before c
 
 1.  **Clear Notebook Outputs & Remove Empty Cells**: 
     Always clean your Jupyter notebooks before committing. This reduces file size and prevents unnecessary diffs.
-    Use the provided utility script:
+    
+    You can use the provided automation script to clean, stage, commit, and push in one step:
+    ```bash
+    ./scripts/clean_and_push.sh "Your commit message"
+    ```
+    
+    Or run just the cleaning script:
     ```bash
     python scripts/clean_notebooks.py
     ```
-    This script automatically clears outputs and removes empty cells from all `.ipynb` files in the project.
 
 2.  **Update README.md**: 
     If your changes introduce new topics, notebooks, or dependencies, ensure the `README.md` is updated accordingly to reflect the current state of the project.

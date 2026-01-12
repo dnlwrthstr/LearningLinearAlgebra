@@ -39,7 +39,13 @@ To explore these notebooks, you will need a Python environment with Jupyter inst
 pip install -r requirements.txt
 ```
 
-Before contributing or committing changes, please run the following command to clean your notebooks (clear outputs and remove empty cells):
+Before contributing or committing changes, you can use the following command to automatically clean your notebooks, stage changes, commit, and push in one go:
+
+```bash
+./scripts/clean_and_push.sh "Your commit message"
+```
+
+Alternatively, to just clean the notebooks:
 
 ```bash
 python scripts/clean_notebooks.py
