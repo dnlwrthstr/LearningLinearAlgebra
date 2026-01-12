@@ -39,7 +39,13 @@ To explore these notebooks, you will need a Python environment with Jupyter inst
 pip install -r requirements.txt
 ```
 
-Before contributing or committing changes, please refer to the [Commit Guidelines](.junie/commit_guidelines.md) for instructions on cleaning notebooks.
+Before contributing or committing changes, please run the following command to clean your notebooks (clear outputs and remove empty cells):
+
+```bash
+python scripts/clean_notebooks.py
+```
+
+For more details, please refer to the [Commit Guidelines](.junie/commit_guidelines.md).
 
 Then, you can start the Jupyter Notebook server:
 
