@@ -39,6 +39,8 @@ To explore these notebooks, you will need a Python environment with Jupyter inst
 pip install -r requirements.txt
 ```
 
+Before contributing or committing changes, please refer to the [Commit Guidelines](.junie/commit_guidelines.md) for instructions on cleaning notebooks.
+
 Then, you can start the Jupyter Notebook server:
 
 ```bash
