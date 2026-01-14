@@ -51,7 +51,7 @@ Alternatively, to just clean the notebooks:
 python scripts/clean_notebooks.py
 ```
 
-For more details, please refer to the [Commit Guidelines](.junie/commit_guidelines.md).
+For more details, please refer to the [Commit Guidelines](.junie/guidelines.md).
 
 Then, you can start the Jupyter Notebook server:
 
