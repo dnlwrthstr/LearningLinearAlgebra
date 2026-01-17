@@ -8,7 +8,7 @@ The project is divided into several main directories:
 
 ### 1. [Hyperskill](./hyperskill/)
 Contains notebooks following the Hyperskill Linear Algebra track, organized by topics:
-- **01 Vector and Vector Spaces**: Basics of vectors, operations, spaces, and projections.
+- **01 Vector and Vector Spaces**: Basics of vectors, operations, spaces, projections, and norms.
 - **02 Matrices**: Introduction to matrices, types, operations, determinants, and inverses.
 - **03 Systems of Linear Equations**: Solving systems using Gauss elimination and row transformations.
 - **04 Linear Operators**: Subspaces, null space, range, and eigenvalues/eigenvectors.
