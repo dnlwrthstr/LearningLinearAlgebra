@@ -13,6 +13,7 @@ Contains notebooks following the Hyperskill Linear Algebra track, organized by t
 - **03 Systems of Linear Equations**: Solving systems using Gauss elimination and row transformations.
 - **04 Linear Operators**: Subspaces, null space, range, and eigenvalues/eigenvectors.
 - **05 Matrix Decomposition**: LU decomposition, diagonalization, SVD, and applications.
+- **11 Advanced Concepts**: Fourier analysis, orthogonality, and advanced inner product spaces.
 
 ### 2. [Coursera](./coursera/)
 Materials and assignments from Coursera Linear Algebra courses, including labs on NumPy, linear systems, and eigenvalues.
