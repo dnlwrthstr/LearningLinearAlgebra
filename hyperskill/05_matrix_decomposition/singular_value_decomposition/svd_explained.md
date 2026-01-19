@@ -7,6 +7,7 @@ Let me add a layer of clarification and deeper geometric intuition, plus optiona
 
 ## Illustration
 
+
 ![SVD Illustration](svd_image.png)
 
 ---
